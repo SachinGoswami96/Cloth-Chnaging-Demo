@@ -1,4 +1,4 @@
-## Cloth-Chnaging-Demo
+## Cloth changing Demo Using ARKit
 
 You can check below video.
 
